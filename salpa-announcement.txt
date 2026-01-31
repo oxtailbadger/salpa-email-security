@@ -1,6 +1,8 @@
 WHY YOUR EMAIL SECURITY STACK STILL HAS A BLIND SPOT — AND HOW SALPA FIXES IT
 
-Phishing remains the number one initial access vector in breaches worldwide. Despite billions spent on secure email gateways, AI filters, and user awareness training, attackers continue to reach inboxes because most defenses rely on reputation lists and sender scoring that sophisticated campaigns easily bypass. The signals are in the email itself — in the headers, the URLs, the language, the structure — but most tools never look closely enough.
+Phishing remains the number one initial access vector in breaches worldwide. Despite billions spent on secure email gateways, AI filters, and user awareness training, attackers continue to reach inboxes because most defenses rely on reputation lists and sender scoring that sophisticated campaigns easily bypass. 
+
+The signals are in the email itself — in the headers, the URLs, the language, the structure — but most tools never look closely enough.
 
 That is the problem Salpa was built to solve.
 
